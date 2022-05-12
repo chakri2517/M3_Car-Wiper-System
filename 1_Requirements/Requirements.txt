@@ -1,0 +1,10 @@
+1.ARM based Microcontroller
+2.Vehcle Mirror
+3.Wiper Motor
+4.Control unit
+5.Relay
+6.Rain Sensors
+7.I/P signal modules 
+8.Grid Sensor
+9.Impedence Sensors
+10.Optical sensors 
